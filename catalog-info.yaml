@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Test
+  annotations:
+    github.com/project-slug: ndhananj-tibco/Test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: tibco-hub-core
