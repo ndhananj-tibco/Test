@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Test_New
+  name: First_Template
   annotations:
     github.com/project-slug: ndhananj-tibco/Test
 spec:
-  type: service
+  type: Template
   lifecycle: unknown
   owner: tibco-hub-core
